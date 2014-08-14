@@ -30,5 +30,17 @@
         "scrum-3.md",
         "scrum-4.md"
     ],
-    "build-a-roadmap.md"
+    "build-a-roadmap.md",
+    {
+        "attr": {
+            "data-background": "images/map.png",
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/flow.jpg",
+            "data-background-size": "100%"
+        }
+    }
 ]
