@@ -33,7 +33,7 @@
     "build-a-roadmap.md",
     {
         "attr": {
-            "data-background": "images/map.png",
+            "data-background": "images/story-map.png",
             "data-background-size": "100%"
         }
     },
@@ -42,5 +42,12 @@
             "data-background": "images/flow.jpg",
             "data-background-size": "100%"
         }
-    }
+    },
+    {
+        "attr": {
+            "data-background": "images/Red_Green_Refactor.jpg",
+            "data-background-size": "100%"
+        }
+    },
+    "deploy.md"
 ]
