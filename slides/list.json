@@ -8,7 +8,8 @@
     },
     {
         "attr": {
-            "data-background": "images/pomodoro.jpg"
+            "data-background": "images/pomodoro.jpg",
+            "data-background-size": "100%"
         }
     },
     {
