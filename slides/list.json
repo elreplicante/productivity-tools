@@ -49,5 +49,10 @@
             "data-background-size": "100%"
         }
     },
-    "deploy.md"
+    {
+            "attr": {
+                "data-background": "images/have-fun.png",
+                "data-background-size": "100%"
+            }
+        }
 ]
